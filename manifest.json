@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.2/oct22-1.0.2.zip",
-  "sha256": "cadfb6ce1f895745e87001f07aa48fc46207fb926e9d84a8b2285823183708ee",
+  "version": "1.0.3",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.3/oct22-1.0.3.zip",
+  "sha256": "f52afc901d3ebeeb8840f58ca7260e7eb97166d31d27f1d73277702efa18f2cd",
   "minNative": {},
-  "notes": "Emerald's walk speed and sizes, furnished rooms, the Island fixed, new mark and colours"
+  "notes": "Redrawn: every tile, every character, every room. 31 colours, Gen 3 dimensions."
 }
