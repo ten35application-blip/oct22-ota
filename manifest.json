@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.7/oct22-1.0.7.zip",
-  "sha256": "93fa9ad09b3e0abcfdeb00611f24d4de8911eb7fbce18ed86b0eac845fbe35e2",
+  "version": "1.0.8",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.8/oct22-1.0.8.zip",
+  "sha256": "81040dc0e7af5466b8c1b564d4964faffe10b50fde4031dc1ae53aa8eac4368e",
   "minNative": {},
-  "notes": "The hound is a hound, not a horse"
+  "notes": "Towns have houses now, placed on streets. Locked doors say so."
 }
