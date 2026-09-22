@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.1.0/oct22-1.1.0.zip",
-  "sha256": "19b77ed3c08e0cc310e39926c6a9b3af5b6d4b246a563cef62a5aa30fc5ea507",
+  "version": "1.2.0",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.0/oct22-1.2.0.zip",
+  "sha256": "e9a60be2477e6d512135a22a1e5ad931535f6a6da7cac192fecae38eafadf6c8",
   "minNative": {},
-  "notes": "Rooms that make sense, walking the right way, smoke in the spell colour"
+  "notes": "Painted rooms: the office and Wyrdhold are pictures now, not tiles. Chibi cast at one scale. The tutorial fight: four monsters, one of each, each one stops and lights its own spell."
 }
