@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.5/oct22-1.0.5.zip",
-  "sha256": "362164939b827ee0a0371b485ffee67b70cc922cda9f3a1a9ec7c1679ff51f2a",
+  "version": "1.0.6",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.6/oct22-1.0.6.zip",
+  "sha256": "49b2025f87c1911367ca9d4cd4d64153db22f5cb97b0c0e1cbc8aff4c1221462",
   "minNative": {},
-  "notes": "Generated art throughout: every character, every building, every prop"
+  "notes": "Levels and health from fighting. Locked ways say so. Doors fade."
 }
