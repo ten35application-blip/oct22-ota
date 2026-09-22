@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.6/oct22-1.0.6.zip",
-  "sha256": "49b2025f87c1911367ca9d4cd4d64153db22f5cb97b0c0e1cbc8aff4c1221462",
+  "version": "1.0.7",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.7/oct22-1.0.7.zip",
+  "sha256": "93fa9ad09b3e0abcfdeb00611f24d4de8911eb7fbce18ed86b0eac845fbe35e2",
   "minNative": {},
-  "notes": "Levels and health from fighting. Locked ways say so. Doors fade."
+  "notes": "The hound is a hound, not a horse"
 }
