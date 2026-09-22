@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.1/oct22-1.0.1.zip",
-  "sha256": "dc46d6556485de39a7b0ae1bfc45a8e20c801244b2ad8d3b48ad27138c6379c4",
+  "version": "1.0.2",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.2/oct22-1.0.2.zip",
+  "sha256": "cadfb6ce1f895745e87001f07aa48fc46207fb926e9d84a8b2285823183708ee",
   "minNative": {},
-  "notes": "New opening film, the new mark, and the splash that finally lets go"
+  "notes": "Emerald's walk speed and sizes, furnished rooms, the Island fixed, new mark and colours"
 }
