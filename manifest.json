@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.8/oct22-1.0.8.zip",
-  "sha256": "81040dc0e7af5466b8c1b564d4964faffe10b50fde4031dc1ae53aa8eac4368e",
+  "version": "1.1.0",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.1.0/oct22-1.1.0.zip",
+  "sha256": "19b77ed3c08e0cc310e39926c6a9b3af5b6d4b246a563cef62a5aa30fc5ea507",
   "minNative": {},
-  "notes": "Towns have houses now, placed on streets. Locked doors say so."
+  "notes": "Rooms that make sense, walking the right way, smoke in the spell colour"
 }
