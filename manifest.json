@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.1/oct22-1.2.1.zip",
-  "sha256": "f50a79897feb110831ca10bf56149ba4fe77b0c41f50df147eee19c8f1959f43",
+  "version": "1.2.2",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.2/oct22-1.2.2.zip",
+  "sha256": "cc5c16bc79be43570a8f16bbcefdfcf5e063756b94d9f838d2b0ff1b5d1de5ec",
   "minNative": {},
-  "notes": "He walks the right way again. The doormat is a place you stand on, not a trapdoor. Leaving the College puts you in Wyrdhold. The guards notice you and speak first."
+  "notes": "Every interior re-measured: one tile is one barrel. Nobody stands inside anybody, nothing sits inside another thing. Missions off - every road open."
 }
