@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.3/oct22-1.0.3.zip",
-  "sha256": "f52afc901d3ebeeb8840f58ca7260e7eb97166d31d27f1d73277702efa18f2cd",
+  "version": "1.0.4",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.0.4/oct22-1.0.4.zip",
+  "sha256": "f67f2a4405e47313c7a72147efac3ca16e5a77c439981abfb066ca7c9581aead",
   "minNative": {},
-  "notes": "Redrawn: every tile, every character, every room. 31 colours, Gen 3 dimensions."
+  "notes": "Real character art, the tutorial finally teaches, doors fade, outlines you can see"
 }
