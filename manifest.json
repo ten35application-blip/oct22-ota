@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.0/oct22-1.2.0.zip",
-  "sha256": "e9a60be2477e6d512135a22a1e5ad931535f6a6da7cac192fecae38eafadf6c8",
+  "version": "1.2.1",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.1/oct22-1.2.1.zip",
+  "sha256": "f50a79897feb110831ca10bf56149ba4fe77b0c41f50df147eee19c8f1959f43",
   "minNative": {},
-  "notes": "Painted rooms: the office and Wyrdhold are pictures now, not tiles. Chibi cast at one scale. The tutorial fight: four monsters, one of each, each one stops and lights its own spell."
+  "notes": "He walks the right way again. The doormat is a place you stand on, not a trapdoor. Leaving the College puts you in Wyrdhold. The guards notice you and speak first."
 }
