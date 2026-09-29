@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.2.2/oct22-1.2.2.zip",
-  "sha256": "cc5c16bc79be43570a8f16bbcefdfcf5e063756b94d9f838d2b0ff1b5d1de5ec",
+  "version": "1.3.0",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.3.0/oct22-1.3.0.zip",
+  "sha256": "c12acd0de61d0e20ebeffae6e2639dc1a4fc0b862de28c1fb31f7c5747d966e4",
   "minNative": {},
-  "notes": "Every interior re-measured: one tile is one barrel. Nobody stands inside anybody, nothing sits inside another thing. Missions off - every road open."
+  "notes": "The world, painted: rooms at one standard, eight towns, homes and markets you can walk into, roads that darken ring by ring."
 }
