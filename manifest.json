@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.3.0/oct22-1.3.0.zip",
-  "sha256": "c12acd0de61d0e20ebeffae6e2639dc1a4fc0b862de28c1fb31f7c5747d966e4",
+  "version": "1.3.1",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.3.1/oct22-1.3.1.zip",
+  "sha256": "9f0042a5ce3ed2b0d9083c845df4c94005adc7bebbc16aa0ab2bf5eb54f18624",
   "minNative": {},
-  "notes": "The world, painted: rooms at one standard, eight towns, homes and markets you can walk into, roads that darken ring by ring."
+  "notes": "Thornwick's market repainted flat, the Depths painted as a cave, the College road repainted."
 }
