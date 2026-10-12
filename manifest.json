@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.4/oct22-1.4.4.zip",
-  "sha256": "6751c36418608a12df9e13cec598d899eeecf3b2e9a51e5974804a0f8459c5be",
+  "version": "1.4.5",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.5/oct22-1.4.5.zip",
+  "sha256": "c2341880ac4af684608df6a3f0a6e2c425d5f36cf6fdb2afd9adc744b6f360f5",
   "minNative": {},
-  "notes": "Light near the College, twilight toward Velkraeth; every home furnished"
+  "notes": "Real houses in Wyrdhold (village kit), cozy rooms, credits"
 }
