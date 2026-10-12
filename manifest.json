@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.0/oct22-1.4.0.zip",
-  "sha256": "b571471656ee72e11d413b0252633c3a00418e1fc3f4fc9252ddfb50c932ccb1",
+  "version": "1.4.1",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.1/oct22-1.4.1.zip",
+  "sha256": "0e0b02c3256ad0751c218a6eaabd88f3fa5164628c520248bde17c9d5fc5e918",
   "minNative": {},
-  "notes": "The whole world in 3D: every town, road and room walkable in 3D. A D-pad instead of the stick. Arcade removed. Rain only on the forest roads; the menu is quiet."
+  "notes": "Walk-around build: the whole 3D world, every door and every person, and no fights anywhere."
 }
