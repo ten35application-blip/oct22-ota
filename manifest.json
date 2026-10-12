@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.3/oct22-1.4.3.zip",
-  "sha256": "cdd15252614ae955ef94939b3fc33d41df6b2b1d8f2911bd03a94aa2669b3f53",
+  "version": "1.4.4",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.4/oct22-1.4.4.zip",
+  "sha256": "6751c36418608a12df9e13cec598d899eeecf3b2e9a51e5974804a0f8459c5be",
   "minNative": {},
-  "notes": "Every room its own: themed interiors, fireplaces, kit houses and trees"
+  "notes": "Light near the College, twilight toward Velkraeth; every home furnished"
 }
