@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.5/oct22-1.4.5.zip",
-  "sha256": "c2341880ac4af684608df6a3f0a6e2c425d5f36cf6fdb2afd9adc744b6f360f5",
+  "version": "1.4.6",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.6/oct22-1.4.6.zip",
+  "sha256": "439046ba78fc61a09411386d682e7846e29b0329d23a6c1a534dc811ed316c64",
   "minNative": {},
-  "notes": "Real houses in Wyrdhold (village kit), cozy rooms, credits"
+  "notes": "Zelda-style diorama look, soft ground, real trees, yards, house styles per town"
 }
