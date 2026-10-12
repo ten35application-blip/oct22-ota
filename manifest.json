@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.1/oct22-1.4.1.zip",
-  "sha256": "0e0b02c3256ad0751c218a6eaabd88f3fa5164628c520248bde17c9d5fc5e918",
+  "version": "1.4.2",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.2/oct22-1.4.2.zip",
+  "sha256": "3a2c604059280fb50a24624ce2fd2720e7dfb074e7ed3f5e538431c4dcd79a67",
   "minNative": {},
-  "notes": "Walk-around build: the whole 3D world, every door and every person, and no fights anywhere."
+  "notes": "The College grounds: leave his office under the great living tree, then take the road. The road comes into Wyrdhold on an open road. The gate guards stay at their posts. Every room's door works."
 }
