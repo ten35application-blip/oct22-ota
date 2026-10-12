@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.3.3/oct22-1.3.3.zip",
-  "sha256": "bc2b8c27a742f29bf1ead3d20e703b3711c352e0b5b7c0e11c5f8dad0b4ac9b0",
+  "version": "1.4.0",
+  "url": "https://github.com/ten35application-blip/oct22-ota/releases/download/ota-1.4.0/oct22-1.4.0.zip",
+  "sha256": "b571471656ee72e11d413b0252633c3a00418e1fc3f4fc9252ddfb50c932ccb1",
   "minNative": {},
-  "notes": "Roads repainted: the forest stands up from the ground instead of reading as a view from the sky."
+  "notes": "The whole world in 3D: every town, road and room walkable in 3D. A D-pad instead of the stick. Arcade removed. Rain only on the forest roads; the menu is quiet."
 }
